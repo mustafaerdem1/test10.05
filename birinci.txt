@@ -3,3 +3,5 @@ Add file kısmından
 create new file diyerek
 
 birinci.txt dosyası oluşturduk..
+
+sağ üstten edit this file e tıklayarak kod eklenebilir.
